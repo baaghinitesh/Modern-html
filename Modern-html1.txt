@@ -1,0 +1,119 @@
+1) List out the features of HTML 5.
+
+=> a) Audio and Video tag
+   b) Vector graphics
+   c) Header and Footer
+   d) Figure and Figcaption
+   e) Nav tag
+   f) Progress tag
+   g) Place holder attribute
+   h) E-mail attribute
+   i) Storage
+   j) Ease of use
+
+2) What are HTML Entities ? List out 5 commonly used HTML entities.
+
+=> Some characters are reserved in HTML.
+
+If you use the less than (<) or greater than (>) signs in your HTML text, the browser might mix them with tags.
+
+Entity names or entity numbers can be used to display reserved HTML characters.
+
+Syntax
+Entities are case-sensitive and can take one of three forms.
+
+The first form references an entity by name:- &name;
+The second form references it by the decimal Unicode number:- &#number;
+The third represents it with the hexadecimal Unicode number, often with leading zeros:- &#xnumber;
+
+Entity Values:-
+
+Entity Name		1st Form	2nd Form	3rd Form
+Non-breaking space	&nbsp;		&#160;		&#x000A0;
+Less-than sign <	&lt;		&#60;		&#x0003C;
+Greater-than sign >	&gt;		&#62;		&#x0003E;
+Ampersand &		&amp;		&#38;		&#x00026;
+Quote "			&quot;		&#34;		&#x00022;
+Apostrophe '		&apos;		&#39;		&#x00027;
+Copyright ©		&copy;		&#169;		&#x000A9;
+Degree °		&deg;		&#176;		&#x000B0;
+Euro €			&euro;		&#8364;		&#x020AC;
+Bullet character •	&bullet;	&#8226;		&#x02022;
+
+3) Define accessiblity in the context of web development. Discuss why it's essential to create accessible website and how it benifits different user groups.
+
+=> Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them. More specifically, people can:
+
+perceive, understand, navigate, and interact with the Web
+contribute to the Web
+Web accessibility encompasses all disabilities that affect access to the Web, including:
+
+auditory
+cognitive
+neurological
+physical
+speech
+visual
+
+Web accessibility also benefits people without disabilities, for example:
+
+people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc.
+older people with changing abilities due to ageing
+people with “temporary disabilities” such as a broken arm or lost glasses
+people with “situational limitations” such as in bright sunlight or in an environment where they cannot listen to audio
+people using a slow Internet connection, or who have limited or expensive bandwidth
+
+Accessibility supports social inclusion for people with disabilities as well as others, such as:
+
+older people
+people in rural areas
+people in developing countries
+
+4) List any 3 ways which helps us in improving the accessiblity of HTML.
+
+=> There are the ways to improve the accessibility of HTML:-
+
+a) Types of assistive technology
+Assistive technology is the umbrella term for assistive, adaptive and rehabilitative devices and tools used by people with disabilities. In the context of web accessibility, assistive technology is the software and hardware used by people with disabilities to access and use the internet.
+
+Implementing web accessibility methodology becomes easier if you consider the specific needs of people with disabilities. There aren’t blanket solutions, and different approaches should be taken to provide optimal user experience depending on the disability.
+
+b) Assistive technology for people with visual impairments
+People with visual impairments like low vision or blindness may require screen reader software. Screen reader software translates website displays into non-visual information via text-to-speech converters, sound cues and refreshable Braille displays. Screen magnification software is, as the name suggests, standalone programming that magnifies digital displays to provide easier viewing for people with low vision
+
+c) Assistive technology for people with cognitive impairments or learning disabilities
+Unlike visual or motor impairments, cognitive or learning impairments aren’t often accounted for in web accessibility techniques and guides. While most tools to assist people with cognitive or learning impairments are built on the developer’s or web designer’s side, existing tools can help the development of such custom programs.
+
+Text readers are software programs that repeat text on a screen in a synthesized voice. For clarity, some options highlight the word being spoken. However, text readers aren’t usually capable of reading complicated text (like menus) or non-text elements (like images).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
